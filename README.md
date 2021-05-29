@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://acegif.com/wp-content/gifs/hello-47.gif" alt="My Project GIF" width="67" height="80">
 #### 🔭 I’m currently persuing Bachelor of Technology Undergraduate in Information Technology
 #### 🌱 I’m currently learning Machine Learning 
 #### 📈: Can Work Everyday to achieve my goals
