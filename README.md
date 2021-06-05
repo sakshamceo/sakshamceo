@@ -1,6 +1,6 @@
 # Hi there <img src="https://acegif.com/wp-content/gifs/hello-47.gif" alt="My Project GIF" width="67" height="80">
 #### 🔭 I’m currently persuing Bachelor of Technology Undergraduate in Information Technology
-#### 🌱 I’m currently learning Machine Learning 
+#### 🌱 I’m currently learning Machine Learning (Natural Language Processing)
 #### 📈: Can Work Everyday to achieve my goals
 #### ⛹️‍♂️ Participated in Several Hackathons, MLH etc
 #### 💬 Ask me about <code> C/C++ </code> <code> Data Science </code> , <code> Python </code>, <code> Python GUI </code>, <code>HTML-5 , CSS-3 , Javascript-5</code> , <code> PHP </code> ,<code> Node Packages </code>, <code> SQL </code> and <code> DSA </code> 
