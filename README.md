@@ -5,7 +5,7 @@
 #### ⛹️‍♂️ Participated in Several Hackathons, MLH etc
 #### 💬 Ask me about <code> C/C++ </code> <code> Data Science </code> , <code> Python </code>, <code> Python GUI </code>, <code>HTML-5 , CSS-3 , Javascript-5</code> , <code> Flask </code> ,<code> SQL </code>  <code> Machine Learning  </code>  <code> Natural Language Processing </code> and <code> DSA </code> 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=LinkedIn&logoColor=white)
-<a href ="https://www.linkedin.com/company/skillclan"><img src="https://img.shields.io/badge/Saksham Garg-Co_Founder Skill Clan-red"></a>
+<a href ="https://www.linkedin.com/company/skillclan"><img src="https://img.shields.io/badge/Saksham Garg-Ex Co_Founder Skill Clan-red"></a>
   <br>
 
 #### 📫 How to reach me: sakshamceo@gmail.com
