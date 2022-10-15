@@ -28,9 +28,6 @@
 
 #### 📫 How to reach me: [Website](https://sakshamceo.github.io/Resume/)
 #### ⚡ Fun fact: I love coding :computer:, I invest in Stock Market 💸: and I Play Guitar :guitar: <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sakshamceo&count_private=true&theme=tokyonight&showicons=true)]()<br>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sakshamceo&count_private=true&theme=tokyonight&showicons=true)]()
 ![image](https://user-images.githubusercontent.com/59284238/119961517-c8017a00-bfc3-11eb-8347-20d1a45c8b8a.png)
-
-[![Saksham's Contribution graph](https://activity-graph.herokuapp.com/graph?username=sakshamceo&theme=react-dark)](https://github.com/sakshamceo/github-readme-activity-graph)
-
-
+[![@sakshamceo's Holopin board](https://holopin.me/sakshamceo)](https://holopin.io/@sakshamceo)
