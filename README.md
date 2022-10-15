@@ -27,7 +27,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 #### 📫 How to reach me: [Website](https://sakshamceo.github.io/Resume/)
-#### ⚡ Fun fact: I love coding :computer:, I invest in Stock Market 💸: and I Play Guitar :guitar: <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sakshamceo&count_private=true&theme=tokyonight&showicons=true)]()
-![image](https://user-images.githubusercontent.com/59284238/119961517-c8017a00-bfc3-11eb-8347-20d1a45c8b8a.png)
+#### ⚡ Fun fact: I love coding :computer:, I invest in Stock Market 💸: and I Play Guitar :guitar: 
 [![@sakshamceo's Holopin board](https://holopin.me/sakshamceo)](https://holopin.io/@sakshamceo)
+![image](https://user-images.githubusercontent.com/59284238/119961517-c8017a00-bfc3-11eb-8347-20d1a45c8b8a.png)
+
